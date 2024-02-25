@@ -28,6 +28,10 @@
 
 /* seccion quienes somos*/
 
+#quienessomos{
+  padding-left: 50px;
+  padding-right: 50px;
+}
 .i-box {
   background-color: #0dcaf0;
 }
@@ -49,6 +53,7 @@ background-color: black;
 color: white;
 padding-top: 50px;
 }
+
 
 
 
