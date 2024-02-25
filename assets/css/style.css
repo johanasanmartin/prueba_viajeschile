@@ -19,15 +19,14 @@
      
 }
 
-/* seccion navbar */
+/* seccion navbar y carrusel*/
 #navbarSupportedContent {
    justify-content: right;
    text-align: right;
 }
 
-/* seccion carrusel*/
 
-/* seccion texto*/
+/* seccion quienes somos*/
 
 .i-box {
   background-color: #0dcaf0;
@@ -53,7 +52,7 @@ padding-top: 50px;
 
 
 
-/* seccion fotos-cards */
+/* seccion destacados */
 
 .fotos{
   background-color: black;
