@@ -36,10 +36,8 @@
 
 .card-group{
 
-  padding: 50px;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
-
 }
 
 .card {
@@ -76,11 +74,27 @@ padding-top: 50px;
   text-align: left;
 }
 
+.row{
+ margin: 0%;
+ padding-left: 50px;
+ padding-right: 50px;
+ padding-bottom: 40px;
+}
+
+.destacados{
+padding-top: 20px;
+}
+
 /* seccion formulario */
 .formulario{
   padding: 0px 80px 40px 80px;
   background-color: black;
   color: white;
+}
+
+.contacto{
+  text-align: center;
+  padding-top: 40px;
 }
 
 /* seccion footer */
