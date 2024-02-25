@@ -73,6 +73,7 @@ padding-top: 50px;
 
   color: white;
   padding: 20px;
+  text-align: left;
 }
 
 /* seccion formulario */
@@ -92,11 +93,13 @@ padding-top: 50px;
  background-color: #0dcaf0;
  color: white;
  padding: 20px;
+ 
+ 
 
 }
 .bajada{
   vertical-align: top;
-  text-decoration: none;
+ 
   
 }
 .iconos{
